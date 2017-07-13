@@ -1,8 +1,6 @@
 package com.umeng.soexample;
 
-/**
- * Created by wangfei on 16/7/12.
- */
+
 public class Defaultcontent {
    public static String url = "https://wsq.umeng.com/";
     public static String text = "友盟微社区sdk，多终端一社区，为您的app添加社区就是这么简单";
